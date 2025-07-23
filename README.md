@@ -16,7 +16,7 @@ A user-friendly web application enabling seamless, context-aware translation acr
 
 1. **Clone the repo**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/Sanketsinghal17/AI_Multi_Language_Translator.git
     cd AI_Multi_Language_Translator
     ```
 
